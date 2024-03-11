@@ -1,5 +1,11 @@
 # Shamir-protocol-c-
 
+
+
+
+
+
+
 using System;
 using System.Security.Cryptography;
 
