@@ -1,4 +1,4 @@
-# Shamir-protocol-c-
+# Shamir-protocol
 
 
 
